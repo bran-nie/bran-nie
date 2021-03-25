@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm [bran-nie](https://bran-nie.com)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bran-nie&show_icons=true)
 
 <!--
 **bran-nie/bran-nie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
